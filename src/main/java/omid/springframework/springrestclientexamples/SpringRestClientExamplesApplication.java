@@ -1,13 +1,13 @@
-package omid.springframework;
+package omid.springframework.springrestclientexamples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringRestClientExampleApplication {
+public class SpringRestClientExamplesApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringRestClientExampleApplication.class, args);
+        SpringApplication.run(SpringRestClientExamplesApplication.class, args);
     }
 
 }
